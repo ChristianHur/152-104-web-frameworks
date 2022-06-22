@@ -1,0 +1,2 @@
+# 152-104-web-frameworks
+In this course, students explore web applications using a variety of modern web development frameworks. They examine advanced server-side frameworks for creating dynamic data-driven web applications. Students utilize test-driven development (TDD) techniques and various tools for streamlining application development. Upon completion of this course, students will be able to build robust web applications using modern server-side frameworks for various platforms.
